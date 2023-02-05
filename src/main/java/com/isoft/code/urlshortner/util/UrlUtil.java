@@ -1,4 +1,4 @@
-package com.isoft.code.urlshortner;
+package com.isoft.code.urlshortner.util;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;

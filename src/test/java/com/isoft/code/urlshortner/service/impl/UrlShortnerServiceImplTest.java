@@ -8,7 +8,7 @@ import static org.mockito.Mockito.verify;
 import static org.mockito.Mockito.verifyNoMoreInteractions;
 import static org.mockito.Mockito.when;
 
-import com.isoft.code.urlshortner.UrlUtil;
+import com.isoft.code.urlshortner.util.UrlUtil;
 import com.isoft.code.urlshortner.dto.ShortUrlDto;
 import com.isoft.code.urlshortner.dto.ShortenUrlDto;
 import com.isoft.code.urlshortner.entity.UserUrl;

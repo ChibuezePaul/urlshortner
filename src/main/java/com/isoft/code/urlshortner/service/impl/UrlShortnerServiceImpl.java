@@ -1,6 +1,6 @@
 package com.isoft.code.urlshortner.service.impl;
 
-import com.isoft.code.urlshortner.UrlUtil;
+import com.isoft.code.urlshortner.util.UrlUtil;
 import com.isoft.code.urlshortner.dto.ShortUrlDto;
 import com.isoft.code.urlshortner.dto.ShortenUrlDto;
 import com.isoft.code.urlshortner.entity.UserUrl;
